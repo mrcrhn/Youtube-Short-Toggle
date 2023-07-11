@@ -5,6 +5,7 @@
 // @description  Hides / Shows YouTube Shorts Videos from your current page (Button is next to 'create' button in the top right corner). LocalStorage remembers the choice you left with.
 // @author       Marc
 // @match        http://*.youtube.com/feed/subscriptions
+// @match        https://*.youtube.com
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
 // @run-at document-end
